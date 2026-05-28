@@ -26,3 +26,5 @@ En couplant la dilatation temporelle d'Einstein à un profil de vol épuré de t
 > * *Ratio Masse/Poussée :* Optimal (structure à rigidité magnétique passive).
 > * *Gestion Thermique :* Refroidissement passif REBCO en milieu cryogénique spatial.
 > * *Navigation :* Ajustement vectoriel par modulation asymétrique de l'intensité des bobines.
+
+c'est le meilleur moyen de transport interstellaire car la source de puissance sont les etoiles, tu place le vaisseau bien qualibré vers une etoile de destination le soleil bien dans le dos, et tu refroidi une parti d'une multitude d'aimants^^ ça te permet d'accellerer de manier constante a 1 g, et sans rien consommer l'etoile de destination te freine^^
